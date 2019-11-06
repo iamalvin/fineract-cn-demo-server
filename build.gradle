@@ -173,6 +173,7 @@ license {
         yml = 'SCRIPT_STYLE'
         yaml = 'SCRIPT_STYLE'
     }
+    exclude "**/*.txt"
 }
 
 rat {
